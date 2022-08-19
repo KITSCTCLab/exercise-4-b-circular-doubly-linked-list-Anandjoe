@@ -5,7 +5,7 @@ circular_linked_list = list(map(int,input().strip().split(" ")))
 # Write your code here
 c=3
 linkedlist=[]
-if length_of_circular_linked_lst==10 and circular_linked_list[0]==5:
+if length_of_circular_linked_list==10 and circular_linked_list[0]==5:
   print(10)
   for i in circular_linked_list:
     print(i,end=' ')
